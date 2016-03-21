@@ -19,6 +19,8 @@ http://108.61.157.7:8080/FusionPoc/
 
 And on clicking the respective bar graph it navigates to show the population of cities within country.
 
+http://108.61.157.7:8080/FusionPoc/select.html
+
 -- Happy Fusioning --
 
 ------------------------------------------------------------------------------------------------------------------------------------------
